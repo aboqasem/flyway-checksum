@@ -6,7 +6,7 @@
 
   <groupId>me.zouabi</groupId>
   <artifactId>flyway-checksum</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <properties>
     <junit.jupiter.version>5.8.2</junit.jupiter.version>
